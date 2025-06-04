@@ -1,16 +1,17 @@
-body {
+
+body {      /* Brinda estilo general paa todo el cuerpo de la pagina con tipo de letra y margenes interiores y exteriores */
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
-.container {
+.container {        /* Limita el ancho, y establece margen a todas las secciones, pero no colores ni fuentes */
     width: 80%;
     margin: 0 auto;
     padding: 20px 0;
 }
 
-header {
+header {        /* Brinda color de fondo, color de letra, centrado horizontal y margen, al Encabezado */
     background-color: #333;
     color: #fff;
     text-align: center;
